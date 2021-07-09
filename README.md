@@ -1,4 +1,4 @@
-### <img src="<div class="tenor-gif-embed" data-postid="15731367" data-share-method="host" data-width="100%" data-aspect-ratio="0.7991967871485944"><a href="https://tenor.com/view/angry-cat-busy-laptop-gif-15731367">Angry Cat GIF</a> from <a href="https://tenor.com/search/angry-gifs">Angry GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+### <img src="https://media1.tenor.com/images/80102550479835807fdd8ab3cbab2565/tenor.gif?itemid=15731367
 Hi 👋 I'm Anshima and I am a student pursuing Mtech in Information Technology at International Institute of Professional Studies DAVV Indore . 
  
 - 🔭 I’m currently working on -->
