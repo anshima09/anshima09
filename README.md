@@ -44,6 +44,10 @@ Hi 👋 I'm Anshima and I am a student pursuing Mtech in Information Technology 
 - 😄 Pronouns: ...
 - ⚡ Fun fact -->  I like making things and meeting new people.
  
--->
+LANGUAGES AND TOOLS --
+![image](https://user-images.githubusercontent.com/84280918/125053673-3f620900-e05a-11eb-88cc-866d84b62be2.png)
+![image](https://user-images.githubusercontent.com/84280918/125053733-4e48bb80-e05a-11eb-8b32-5053913ad7e3.png)
+![image](https://user-images.githubusercontent.com/84280918/125053791-5e609b00-e05a-11eb-8ac5-bb168b1d9c92.png)
+
 
 
