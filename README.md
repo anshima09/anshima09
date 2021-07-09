@@ -1,4 +1,4 @@
-### <img src="https://tenor.com/view/angry-cat-busy-laptop-gif-15731367/>
+### <img src="https://tenor.com/view/angry-cat-busy-laptop-gif-15731367
 Hi 👋 I'm Anshima and I am a student pursuing Mtech in Information Technology at International Institute of Professional Studies DAVV Indore . 
  
 - 🔭 I’m currently working on -->
