@@ -1,5 +1,4 @@
-### <img src="5807fdd8ab3cbab2565/tenor.gif?itemid=15731367
-Hi 👋 I'm Anshima and I am a student pursuing Mtech in Information Technology at International Institute of Professional Studies DAVV Indore . 
+###  Hi 👋 I'm Anshima and I am a student pursuing Mtech in Information Technology at International Institute of Professional Studies DAVV Indore . 
  
 - 🔭 I’m currently working on -->
 - 
