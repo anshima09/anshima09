@@ -6,6 +6,26 @@
 ![image](https://user-images.githubusercontent.com/84280918/125052505-e3e34b80-e058-11eb-873d-86beac5ce727.png)
 
 <h1 align="center">Hi 👋, I'm Anshima Sharma</h1>
+- 🔭 I’m currently working on -->
+- 
+-        C Language
+-        C++ Language
+-        
+- 🌱 I’m currently learning -->
+- 
+-        Java
+-        Data Structures
+-        
+- 👯 I’m looking to collaborate on -->
+
+         C Language
+         C++ Language
+         
+
+- 💬 Ask me about -->
+-      c , C++ , Java     
+
+ 
 <h3 align="center">A passionate software engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshima09&label=Profile%20views&color=0e75b6&style=flat" alt="anshima09" /> </p>
