@@ -3,7 +3,7 @@
 
 
 
-![image](https://user-images.githubusercontent.com/84280918/125052505-e3e34b80-e058-11eb-873d-86beac5ce727.png)
+https://thumbs.dreamstime.com/z/businesswoman-laptop-d-clip-art-35679641.jpg
 
 <h1 align="center">Hi 👋, I'm Anshima Sharma</h1>
 - 🔭 I’m currently working on -->
