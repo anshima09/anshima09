@@ -3,7 +3,7 @@
 
 
 
-https://thumbs.dreamstime.com/z/businesswoman-laptop-d-clip-art-35679641.jpg
+<image src="https://thumbs.dreamstime.com/z/businesswoman-laptop-d-clip-art-35679641.jpg">
 
 <h1 align="center">Hi 👋, I'm Anshima Sharma</h1>
 - 🔭 I’m currently working on -->
