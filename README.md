@@ -3,7 +3,7 @@
 
 
 
-<image src="[[https://in.pinterest.com/pin/776096948273766561/"](https://i.pinimg.com/736x/66/ae/6f/66ae6fd7ddfbd32b9b016a29a7479ad0.jpg)](https://i.pinimg.com/474x/68/6b/07/686b07e7a8a09447677e69f67ec8e784.jpg)>
+<image src="https://i.pinimg.com/736x/66/ae/6f/66ae6fd7ddfbd32b9b016a29a7479ad0.jpg">
 
 <h1 align="center">Hi 👋, I'm Anshima Sharma</h1>
 - 🔭 I’m currently working on -->
